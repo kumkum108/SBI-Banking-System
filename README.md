@@ -1,0 +1,1 @@
+A comprehensive SBI Banking System project featuring a relational MySQL database, 20+ interconnected tables, CSV-based data import, reusable SQL financial reports, and an interactive Excel dashboard with KPIs, charts, and business insights.
