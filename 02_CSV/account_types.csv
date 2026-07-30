@@ -1,0 +1,11 @@
+account_type_id,type_name,min_balance,interest_rate,description
+1,Savings Account,500.00,3.00,Regular savings account
+2,Current Account,10000.00,0.00,Business current account
+3,Salary Account,0.00,3.00,Zero balance salary account
+4,Senior Citizen Savings,1000.00,3.50,Higher interest for seniors
+5,NRI Savings Account,10000.00,3.25,For Non Resident Indians
+6,Basic Savings Account,0.00,2.75,No frills account
+7,Student Account,0.00,3.00,For students below 21
+8,Pension Account,0.00,3.25,For pensioners
+9,Women Savings Account,500.00,3.25,Special account for women
+10,Joint Account,1000.00,3.00,Joint holders account

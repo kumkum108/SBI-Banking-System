@@ -1,0 +1,121 @@
+branch_id,branch_code,branch_name,city_id,address,ifsc_code,branch_type,opening_date,is_active
+1,SBI0001,SBI Main Branch Mumbai,1,Nariman Point Mumbai 400021,SBIN0000001,Main Branch,1955-07-01,1
+2,SBI0002,SBI Fort Branch,1,DN Road Fort Mumbai 400001,SBIN0000002,Regular,1960-03-15,1
+3,SBI0003,SBI Andheri Branch,1,Andheri West Mumbai 400058,SBIN0000003,Regular,1975-08-20,1
+4,SBI0004,SBI Bandra Branch,1,Bandra West Mumbai 400050,SBIN0000004,Regular,1980-01-10,1
+5,SBI0005,SBI Pune Camp Branch,2,MG Road Pune Camp 411001,SBIN0000005,Main Branch,1962-04-01,1
+6,SBI0006,SBI Shivajinagar Pune,2,FC Road Shivajinagar Pune 411004,SBIN0000006,Regular,1978-06-15,1
+7,SBI0007,SBI Nagpur Main,3,Sitabuldi Nagpur 440012,SBIN0000007,Main Branch,1965-09-01,1
+8,SBI0008,SBI Connaught Place Delhi,5,Block A CP New Delhi 110001,SBIN0000008,Main Branch,1958-01-26,1
+9,SBI0009,SBI Karol Bagh Delhi,5,Ajmal Khan Road Delhi 110005,SBIN0000009,Regular,1972-11-01,1
+10,SBI0010,SBI Dwarka Delhi,5,Sector 12 Dwarka Delhi 110078,SBIN0000010,Regular,1998-04-10,1
+11,SBI0011,SBI MG Road Bengaluru,6,MG Road Bengaluru 560001,SBIN0000011,Main Branch,1960-11-01,1
+12,SBI0012,SBI Koramangala,6,80 Feet Road Koramangala 560034,SBIN0000012,Regular,1995-07-20,1
+13,SBI0013,SBI Whitefield,6,ITPL Main Road Whitefield 560066,SBIN0000013,Regular,2005-02-14,1
+14,SBI0014,SBI Chennai Main,9,Anna Salai Chennai 600002,SBIN0000014,Main Branch,1959-04-01,1
+15,SBI0015,SBI T Nagar Chennai,9,Usman Road T Nagar 600017,SBIN0000015,Regular,1975-10-15,1
+16,SBI0016,SBI Ahmedabad Main,12,Relief Road Ahmedabad 380001,SBIN0000016,Main Branch,1961-05-01,1
+17,SBI0017,SBI CG Road Ahmedabad,12,CG Road Navrangpura 380009,SBIN0000017,Regular,1985-08-15,1
+18,SBI0018,SBI Surat Main,13,Ring Road Surat 395003,SBIN0000018,Main Branch,1970-03-01,1
+19,SBI0019,SBI Kolkata Main,16,BBD Bagh Kolkata 700001,SBIN0000019,Main Branch,1956-04-01,1
+20,SBI0020,SBI Salt Lake Kolkata,16,Sector V Salt Lake 700091,SBIN0000020,Regular,1992-06-10,1
+21,SBI0021,SBI Lucknow Main,19,Hazratganj Lucknow 226001,SBIN0000021,Main Branch,1963-01-26,1
+22,SBI0022,SBI Gomti Nagar,19,Vibhuti Khand Gomti Nagar 226010,SBIN0000022,Regular,2000-09-01,1
+23,SBI0023,SBI Jaipur Main,23,MI Road Jaipur 302001,SBIN0000023,Main Branch,1964-03-30,1
+24,SBI0024,SBI Vaishali Nagar Jaipur,23,Vaishali Nagar Jaipur 302021,SBIN0000024,Regular,1998-11-15,1
+25,SBI0025,SBI Bhopal Main,26,New Market TT Nagar 462003,SBIN0000025,Main Branch,1966-11-01,1
+26,SBI0026,SBI Hyderabad Main,32,Abids Road Hyderabad 500001,SBIN0000026,Main Branch,1959-11-01,1
+27,SBI0027,SBI Banjara Hills,32,Road No 12 Banjara Hills 500034,SBIN0000027,Regular,1988-04-14,1
+28,SBI0028,SBI HITEC City,32,HITEC City Hyderabad 500081,SBIN0000028,Regular,2008-01-02,1
+29,SBI0029,SBI Thiruvananthapuram,29,MG Road Trivandrum 695001,SBIN0000029,Main Branch,1967-11-01,1
+30,SBI0030,SBI Kochi Main,30,MG Road Ernakulam 682011,SBIN0000030,Main Branch,1968-04-01,1
+31,SBI0031,SBI Chandigarh Main,38,Sector 17 Chandigarh 160017,SBIN0000031,Main Branch,1970-01-26,1
+32,SBI0032,SBI Gurugram Cyber City,39,DLF Cyber City 122002,SBIN0000032,Regular,2010-06-01,1
+33,SBI0033,SBI Patna Main,41,Fraser Road Patna 800001,SBIN0000033,Main Branch,1962-03-22,1
+34,SBI0034,SBI Bhubaneswar Main,43,Janpath Bhubaneswar 751001,SBIN0000034,Main Branch,1971-04-01,1
+35,SBI0035,SBI Guwahati Main,45,Pan Bazaar Guwahati 781001,SBIN0000035,Main Branch,1969-01-26,1
+36,SBI0036,SBI Ranchi Main,46,Main Road Ranchi 834001,SBIN0000036,Main Branch,1973-11-15,1
+37,SBI0037,SBI Dehradun Main,49,Rajpur Road Dehradun 248001,SBIN0000037,Main Branch,1975-01-26,1
+38,SBI0038,SBI Nashik Main,4,College Road Nashik 422005,SBIN0000038,Main Branch,1974-08-15,1
+39,SBI0039,SBI Mysuru Main,7,JLB Road Mysuru 570001,SBIN0000039,Main Branch,1968-09-01,1
+40,SBI0040,SBI Coimbatore Main,10,RS Puram Coimbatore 641002,SBIN0000040,Main Branch,1969-04-14,1
+41,SBI0041,SBI Vadodara Main,14,RC Dutt Road Vadodara 390007,SBIN0000041,Main Branch,1967-05-01,1
+42,SBI0042,SBI Ludhiana Main,36,Ferozepur Road Ludhiana 141001,SBIN0000042,Main Branch,1971-09-01,1
+43,SBI0043,SBI Amritsar Main,37,Lawrence Road Amritsar 143001,SBIN0000043,Main Branch,1972-04-13,1
+44,SBI0044,SBI Visakhapatnam,34,Dwaraka Nagar Vizag 530016,SBIN0000044,Main Branch,1970-06-02,1
+45,SBI0045,SBI Indore Main,27,MG Road Indore 452001,SBIN0000045,Main Branch,1968-03-01,1
+46,SBI0046,SBI Raipur Main,48,Pandri Raipur 492004,SBIN0000046,Main Branch,1976-11-01,1
+47,SBI0047,SBI Thane Main,61,Station Road Thane 400601,SBIN0000047,Main Branch,1982-01-26,1
+48,SBI0048,SBI Noida Sector 18,62,Sector 18 Noida 201301,SBIN0000048,Regular,1999-04-01,1
+49,SBI0049,SBI Ghaziabad Main,63,Navyug Market Ghaziabad 201001,SBIN0000049,Main Branch,1985-03-23,1
+50,SBI0050,SBI Navi Mumbai Vashi,64,Sector 17 Vashi 400703,SBIN0000050,Regular,1994-05-27,1
+51,SBI0051,SBI Powai Mumbai,1,Hiranandani Gardens Powai 400076,SBIN0000051,Regular,1996-08-15,1
+52,SBI0052,SBI Borivali Mumbai,1,LT Road Borivali West 400092,SBIN0000052,Regular,1988-11-14,1
+53,SBI0053,SBI Malad Mumbai,1,Malad West Mumbai 400064,SBIN0000053,Regular,1990-04-01,1
+54,SBI0054,SBI Hinjewadi Pune,2,Phase 1 Hinjewadi 411057,SBIN0000054,Regular,2007-03-15,1
+55,SBI0055,SBI Kothrud Pune,2,Paud Road Kothrud 411038,SBIN0000055,Regular,1992-10-02,1
+56,SBI0056,SBI Electronic City,6,Electronic City Phase 1 560100,SBIN0000056,Regular,2003-07-23,1
+57,SBI0057,SBI HSR Layout,6,HSR Layout Sector 7 560102,SBIN0000057,Regular,2009-01-26,1
+58,SBI0058,SBI Marathahalli,6,Marathahalli Bengaluru 560037,SBIN0000058,Regular,2004-09-05,1
+59,SBI0059,SBI Velachery Chennai,9,Velachery Main Road 600042,SBIN0000059,Regular,2001-04-14,1
+60,SBI0060,SBI OMR Chennai,9,Thoraipakkam OMR 600097,SBIN0000060,Regular,2010-08-15,1
+61,SBI0061,SBI Prahlad Nagar,12,Prahlad Nagar Ahmedabad 380015,SBIN0000061,Regular,2002-01-26,1
+62,SBI0062,SBI Satellite Ahmedabad,12,Satellite Road 380015,SBIN0000062,Regular,1997-05-01,1
+63,SBI0063,SBI Park Street Kolkata,16,Park Street Kolkata 700016,SBIN0000063,Regular,1965-08-15,1
+64,SBI0064,SBI New Town Kolkata,16,Rajarhat New Town 700156,SBIN0000064,Regular,2012-03-23,1
+65,SBI0065,SBI Saket Delhi,5,Saket District Centre 110017,SBIN0000065,Regular,2000-11-14,1
+66,SBI0066,SBI Rohini Delhi,5,Sector 7 Rohini 110085,SBIN0000066,Regular,1995-01-26,1
+67,SBI0067,SBI Madhapur Hyderabad,32,Madhapur Hyderabad 500081,SBIN0000067,Regular,2006-09-17,1
+68,SBI0068,SBI Gachibowli,32,Gachibowli Hyderabad 500032,SBIN0000068,Regular,2011-04-01,1
+69,SBI0069,SBI Varanasi Main,21,Godowlia Varanasi 221001,SBIN0000069,Main Branch,1963-03-08,1
+70,SBI0070,SBI Agra Main,22,Sanjay Place Agra 282002,SBIN0000070,Main Branch,1964-10-31,1
+71,SBI0071,SBI Kanpur Main,20,The Mall Kanpur 208001,SBIN0000071,Main Branch,1961-01-26,1
+72,SBI0072,SBI Prayagraj Main,75,Civil Lines Prayagraj 211001,SBIN0000072,Main Branch,1962-04-14,1
+73,SBI0073,SBI Jodhpur Main,24,High Court Road Jodhpur 342001,SBIN0000073,Main Branch,1969-03-30,1
+74,SBI0074,SBI Udaipur Main,25,Bapu Bazaar Udaipur 313001,SBIN0000074,Main Branch,1971-06-18,1
+75,SBI0075,SBI Kota Main,77,Shopping Centre Kota 324007,SBIN0000075,Main Branch,1974-01-26,1
+76,SBI0076,SBI Jabalpur Main,79,Civil Lines Jabalpur 482001,SBIN0000076,Main Branch,1968-11-01,1
+77,SBI0077,SBI Gwalior Main,28,Jayendraganj Gwalior 474009,SBIN0000077,Main Branch,1967-03-01,1
+78,SBI0078,SBI Hubli Main,67,Lamington Road Hubli 580020,SBIN0000078,Main Branch,1972-11-01,1
+79,SBI0079,SBI Mangaluru Main,8,KS Rao Road Mangaluru 575001,SBIN0000079,Main Branch,1970-11-01,1
+80,SBI0080,SBI Madurai Main,11,West Veli Street Madurai 625001,SBIN0000080,Main Branch,1966-04-14,1
+81,SBI0081,SBI Salem Main,69,Cherry Road Salem 636007,SBIN0000081,Main Branch,1973-04-14,1
+82,SBI0082,SBI Rajkot Main,15,Dhebar Road Rajkot 360001,SBIN0000082,Main Branch,1969-10-31,1
+83,SBI0083,SBI Jamnagar Main,72,Teen Batti Jamnagar 361001,SBIN0000083,Main Branch,1972-05-01,1
+84,SBI0084,SBI Siliguri Main,73,Hill Cart Road Siliguri 734001,SBIN0000084,Main Branch,1975-01-26,1
+85,SBI0085,SBI Howrah Main,17,GT Road Howrah 711101,SBIN0000085,Main Branch,1960-08-15,1
+86,SBI0086,SBI Durgapur Main,18,City Centre Durgapur 713216,SBIN0000086,Regular,1978-11-14,1
+87,SBI0087,SBI Jalandhar Main,87,GT Road Jalandhar 144001,SBIN0000087,Main Branch,1974-03-23,1
+88,SBI0088,SBI Patiala Main,88,The Mall Patiala 147001,SBIN0000088,Main Branch,1973-11-01,1
+89,SBI0089,SBI Dhanbad Main,97,Bank More Dhanbad 826001,SBIN0000089,Main Branch,1976-01-26,1
+90,SBI0090,SBI Jamshedpur Main,47,Bistupur Jamshedpur 831001,SBIN0000090,Main Branch,1972-03-03,1
+91,SBI0091,SBI Kozhikode Main,31,SM Street Kozhikode 673001,SBIN0000091,Main Branch,1970-11-01,1
+92,SBI0092,SBI Thrissur Main,81,Round South Thrissur 680001,SBIN0000092,Main Branch,1972-11-01,1
+93,SBI0093,SBI Srinagar Main,59,Lal Chowk Srinagar 190001,SBIN0000093,Main Branch,1968-01-26,1
+94,SBI0094,SBI Jammu Main,59,Raghunath Bazaar Jammu 180001,SBIN0000094,Main Branch,1967-01-26,1
+95,SBI0095,SBI Panaji Main,51,MG Road Panaji 403001,SBIN0000095,Main Branch,1975-05-30,1
+96,SBI0096,SBI Shimla Main,50,The Mall Shimla 171001,SBIN0000096,Main Branch,1969-01-25,1
+97,SBI0097,SBI Haridwar Main,100,Railway Road Haridwar 249401,SBIN0000097,Regular,1980-04-14,1
+98,SBI0098,SBI Rishikesh,100,Lakshman Jhula Road 249201,SBIN0000098,Regular,1985-11-14,1
+99,SBI0099,SBI Imphal Main,54,Paona Bazaar Imphal 795001,SBIN0000099,Main Branch,1980-01-21,1
+100,SBI0100,SBI Shillong Main,53,Police Bazaar Shillong 793001,SBIN0000100,Main Branch,1978-01-21,1
+101,SBI0101,SBI Agartala Main,52,HGB Road Agartala 799001,SBIN0000101,Main Branch,1979-01-21,1
+102,SBI0102,SBI Aizawl Main,57,Zarkawt Aizawl 796001,SBIN0000102,Main Branch,1982-02-20,1
+103,SBI0103,SBI Kohima Main,55,Main Town Kohima 797001,SBIN0000103,Main Branch,1981-12-01,1
+104,SBI0104,SBI Itanagar Main,56,Bank Tinali Itanagar 791111,SBIN0000104,Main Branch,1987-02-20,1
+105,SBI0105,SBI Gangtok Main,58,MG Marg Gangtok 737101,SBIN0000105,Main Branch,1983-05-16,1
+106,SBI0106,SBI Dibrugarh Main,95,AT Road Dibrugarh 786001,SBIN0000106,Regular,1977-08-15,1
+107,SBI0107,SBI Silchar Main,96,Central Road Silchar 788001,SBIN0000107,Regular,1979-08-15,1
+108,SBI0108,SBI Lower Parel Mumbai,1,Trade Centre Lower Parel 400013,SBIN0000108,Regular,2002-04-01,1
+109,SBI0109,SBI BKC Mumbai,1,BKC Complex Bandra East 400051,SBIN0000109,Regular,2008-01-26,1
+110,SBI0110,SBI Worli Mumbai,1,Worli Naka Mumbai 400018,SBIN0000110,Regular,1995-10-24,1
+111,SBI0111,SBI Churchgate Mumbai,1,Churchgate Mumbai 400020,SBIN0000111,Regular,1962-08-15,1
+112,SBI0112,SBI Dadar Mumbai,1,Dadar West Mumbai 400028,SBIN0000112,Regular,1970-01-26,1
+113,SBI0113,SBI Vikhroli Mumbai,1,Vikhroli West Mumbai 400083,SBIN0000113,Regular,1998-03-15,1
+114,SBI0114,SBI Chembur Mumbai,1,Chembur Mumbai 400071,SBIN0000114,Regular,1985-04-14,1
+115,SBI0115,SBI Mulund Mumbai,1,Mulund West Mumbai 400080,SBIN0000115,Regular,1991-01-26,1
+116,SBI0116,SBI Kandivali Mumbai,1,Kandivali West 400067,SBIN0000116,Regular,1994-08-15,1
+117,SBI0117,SBI Goregaon Mumbai,1,Goregaon West Mumbai 400062,SBIN0000117,Regular,1996-11-14,1
+118,SBI0118,SBI Versova Mumbai,1,Versova Mumbai 400061,SBIN0000118,Regular,2000-04-01,1
+119,SBI0119,SBI Santacruz Mumbai,1,Santacruz West 400054,SBIN0000119,Regular,1988-01-26,1
+120,SBI0120,SBI Juhu Mumbai,1,Juhu Tara Road Mumbai 400049,SBIN0000120,Regular,1992-04-14,1

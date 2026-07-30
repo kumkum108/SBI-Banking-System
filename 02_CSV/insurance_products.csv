@@ -1,0 +1,16 @@
+product_id,product_name,product_type,premium_min,coverage_max,partner_company
+1,SBI Life Smart Shield,Term Insurance,5000.00,50000000.00,SBI Life Insurance
+2,SBI Life eWealth Insurance,ULIP,25000.00,10000000.00,SBI Life Insurance
+3,SBI Life Retire Smart,Pension,10000.00,5000000.00,SBI Life Insurance
+4,SBI Life Saral Swadhan,Endowment,8000.00,2000000.00,SBI Life Insurance
+5,SBI Life Smart Champ,Child Plan,12000.00,5000000.00,SBI Life Insurance
+6,SBI General Health Edge,Health Insurance,8000.00,5000000.00,SBI General Insurance
+7,SBI General Arogya Supreme,Health Insurance,12000.00,10000000.00,SBI General Insurance
+8,SBI General Motor Insurance,Motor Insurance,3000.00,2000000.00,SBI General Insurance
+9,SBI General Home Insurance,Property Insurance,2000.00,10000000.00,SBI General Insurance
+10,SBI General Travel Insurance,Travel Insurance,500.00,5000000.00,SBI General Insurance
+11,SBI Life Poorna Suraksha,Term Insurance,3000.00,20000000.00,SBI Life Insurance
+12,SBI Life Smart Platina,ULIP,50000.00,25000000.00,SBI Life Insurance
+13,SBI General Cyber Shield,Cyber Insurance,1500.00,500000.00,SBI General Insurance
+14,SBI General Personal Accident,Accident Insurance,1000.00,10000000.00,SBI General Insurance
+15,SBI Life Grameen Bima,Rural Insurance,500.00,200000.00,SBI Life Insurance

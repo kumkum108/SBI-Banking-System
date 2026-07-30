@@ -1,0 +1,8 @@
+region_id,region_name,zone,created_at
+1,Northern Region,North,2020-01-01
+2,Southern Region,South,2020-01-01
+3,Eastern Region,East,2020-01-01
+4,Western Region,West,2020-01-01
+5,Central Region,Central,2020-01-01
+6,North-Eastern Region,NorthEast,2020-01-01
+7,Head Office,Corporate,2020-01-01

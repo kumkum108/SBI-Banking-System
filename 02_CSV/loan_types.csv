@@ -1,0 +1,16 @@
+loan_type_id,type_name,base_interest_rate,max_tenure_months,processing_fee_percent
+1,Home Loan,8.50,360,0.50
+2,Car Loan,9.25,84,1.00
+3,Personal Loan,11.50,60,2.00
+4,Education Loan,8.15,180,0.50
+5,Gold Loan,7.50,36,1.00
+6,Business Loan,12.00,120,1.50
+7,Agriculture Loan,7.00,84,0.25
+8,Two Wheeler Loan,14.00,48,1.50
+9,Loan Against Property,9.50,180,1.00
+10,Consumer Durable Loan,15.00,24,2.00
+11,Overdraft Facility,10.50,12,1.00
+12,Working Capital Loan,11.00,60,1.25
+13,MSME Loan,9.75,120,0.75
+14,Mudra Loan,8.00,60,0.00
+15,Reverse Mortgage Loan,10.00,240,0.50

@@ -1,0 +1,16 @@
+type_id,type_name,description
+1,Individual,Regular individual customers
+2,Joint,Joint account holders
+3,Minor,Accounts for minors with guardian
+4,Senior Citizen,Customers aged 60 and above
+5,NRI,Non Resident Indians
+6,HUF,Hindu Undivided Family
+7,Sole Proprietorship,Individual business owners
+8,Partnership,Partnership firms
+9,Private Limited,Private limited companies
+10,Public Limited,Public limited companies
+11,Trust,Trusts and charitable organizations
+12,Society,Registered societies
+13,Government,Government departments and agencies
+14,PSU,Public sector undertakings
+15,Defense Personnel,Armed forces personnel

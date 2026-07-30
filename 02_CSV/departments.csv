@@ -1,0 +1,21 @@
+department_id,department_name,description
+1,Retail Banking,Handles individual customer accounts and services
+2,Corporate Banking,Services for corporate and business clients
+3,Treasury,Manages bank investments and liquidity
+4,Risk Management,Assesses and mitigates financial risks
+5,Compliance,Ensures regulatory compliance
+6,Human Resources,Employee management and development
+7,Information Technology,Technology infrastructure and support
+8,Operations,Day-to-day banking operations
+9,Credit,Loan processing and credit assessment
+10,Marketing,Brand management and customer acquisition
+11,Customer Service,Customer support and grievance handling
+12,Audit,Internal audit and controls
+13,Legal,Legal affairs and documentation
+14,Finance,Financial planning and accounting
+15,Wealth Management,Investment advisory services
+16,Foreign Exchange,International banking and forex
+17,Agricultural Banking,Rural and agricultural finance
+18,MSME Banking,Micro small medium enterprise services
+19,Digital Banking,Online and mobile banking services
+20,Branch Operations,Branch level operations management

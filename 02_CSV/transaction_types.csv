@@ -1,0 +1,16 @@
+txn_type_id,type_name,type_code
+1,Cash Deposit,DEP
+2,Cash Withdrawal,WDR
+3,NEFT Transfer,NEFT
+4,RTGS Transfer,RTGS
+5,IMPS Transfer,IMPS
+6,UPI Transaction,UPI
+7,Cheque Deposit,CHQ
+8,ATM Withdrawal,ATM
+9,Interest Credit,INT
+10,Salary Credit,SAL
+11,EMI Debit,EMI
+12,Standing Instruction,SI
+13,Bill Payment,BILL
+14,Mobile Recharge,RECH
+15,Merchant Payment,MERC

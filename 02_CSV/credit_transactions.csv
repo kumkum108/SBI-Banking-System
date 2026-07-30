@@ -1,0 +1,101 @@
+card_txn_id,card_id,transaction_date,merchant_name,merchant_category,amount,currency,status
+1,1,2026-07-20 10:15:00,Reliance Digital,Electronics,45000.00,INR,Completed
+2,1,2026-07-18 14:30:00,Amazon India,E-commerce,12500.00,INR,Completed
+3,1,2026-07-15 19:45:00,PVR Cinemas,Entertainment,2800.00,INR,Completed
+4,1,2026-07-12 12:00:00,Taj Hotels,Hotels,28000.00,INR,Completed
+5,1,2026-07-10 16:20:00,Indian Oil,Fuel,5200.00,INR,Completed
+6,2,2026-07-21 11:30:00,Flipkart,E-commerce,8500.00,INR,Completed
+7,2,2026-07-19 15:45:00,Lifestyle,Apparel,6200.00,INR,Completed
+8,2,2026-07-17 09:15:00,Cafe Coffee Day,Food & Beverage,1200.00,INR,Completed
+9,2,2026-07-14 18:30:00,Apollo Pharmacy,Healthcare,3500.00,INR,Completed
+10,2,2026-07-11 21:00:00,Netflix,Entertainment,649.00,INR,Completed
+11,3,2026-07-22 10:00:00,Myntra,E-commerce,4800.00,INR,Completed
+12,3,2026-07-20 13:45:00,Dominos,Food & Beverage,1500.00,INR,Completed
+13,3,2026-07-18 17:30:00,BookMyShow,Entertainment,1200.00,INR,Completed
+14,3,2026-07-15 11:15:00,More Supermarket,Groceries,3200.00,INR,Completed
+15,3,2026-07-13 20:00:00,Uber,Transportation,850.00,INR,Completed
+16,4,2026-07-21 09:30:00,Tanishq,Jewellery,52000.00,INR,Completed
+17,4,2026-07-19 14:15:00,Home Centre,Home Decor,18500.00,INR,Completed
+18,4,2026-07-17 18:45:00,Marks & Spencer,Apparel,12800.00,INR,Completed
+19,4,2026-07-14 12:30:00,Oberoi Hotels,Hotels,45000.00,INR,Completed
+20,4,2026-07-12 16:00:00,HP Petrol,Fuel,6500.00,INR,Completed
+21,5,2026-07-22 11:00:00,Cartier,Luxury,185000.00,INR,Completed
+22,5,2026-07-20 15:30:00,MakeMyTrip,Travel,78000.00,INR,Completed
+23,5,2026-07-18 10:15:00,Rolex,Luxury,125000.00,INR,Completed
+24,5,2026-07-15 19:00:00,ITC Hotels,Hotels,65000.00,INR,Completed
+25,5,2026-07-13 13:45:00,Apple Store,Electronics,98000.00,INR,Completed
+26,6,2026-07-21 10:30:00,BPCL,Fuel,4200.00,INR,Completed
+27,6,2026-07-19 16:15:00,Decathlon,Sports,5800.00,INR,Completed
+28,6,2026-07-17 11:45:00,Swiggy,Food & Beverage,1100.00,INR,Completed
+29,6,2026-07-14 20:30:00,Zomato,Food & Beverage,950.00,INR,Completed
+30,6,2026-07-12 14:00:00,Shoppers Stop,Apparel,4500.00,INR,Completed
+31,7,2026-07-22 09:15:00,Louis Vuitton,Luxury,225000.00,INR,Completed
+32,7,2026-07-20 14:00:00,Taj Hotels,Hotels,120000.00,INR,Completed
+33,7,2026-07-18 18:30:00,Emirates,Travel,185000.00,INR,Completed
+34,7,2026-07-15 12:15:00,Gucci,Luxury,95000.00,INR,Completed
+35,7,2026-07-13 16:45:00,Mont Blanc,Luxury,45000.00,INR,Completed
+36,8,2026-07-21 11:00:00,Big Bazaar,Groceries,4200.00,INR,Completed
+37,8,2026-07-19 17:30:00,Pantaloons,Apparel,3500.00,INR,Completed
+38,8,2026-07-17 10:45:00,IRCTC,Travel,2800.00,INR,Completed
+39,8,2026-07-14 15:15:00,Cleartrip,Travel,5500.00,INR,Completed
+40,8,2026-07-12 19:00:00,Pizza Hut,Food & Beverage,1200.00,INR,Completed
+41,9,2026-07-22 10:30:00,Croma,Electronics,35000.00,INR,Completed
+42,9,2026-07-20 15:00:00,Vijay Sales,Electronics,22000.00,INR,Completed
+43,9,2026-07-18 11:30:00,Urban Ladder,Home Decor,18500.00,INR,Completed
+44,9,2026-07-15 18:00:00,Pepperfry,Home Decor,12000.00,INR,Completed
+45,9,2026-07-13 14:30:00,Spencer's,Groceries,5800.00,INR,Completed
+46,10,2026-07-21 09:45:00,Yatra,Travel,28000.00,INR,Completed
+47,10,2026-07-19 13:15:00,Thomas Cook,Travel,42000.00,INR,Completed
+48,10,2026-07-17 17:00:00,Marriott,Hotels,38000.00,INR,Completed
+49,10,2026-07-14 11:30:00,Hyatt,Hotels,32000.00,INR,Completed
+50,10,2026-07-12 20:15:00,Leela Palace,Hotels,55000.00,INR,Completed
+51,11,2026-07-22 11:15:00,Titan Eye+,Healthcare,8500.00,INR,Completed
+52,11,2026-07-20 16:30:00,Lenskart,Healthcare,6200.00,INR,Completed
+53,11,2026-07-18 10:00:00,1mg,Healthcare,2500.00,INR,Completed
+54,11,2026-07-15 14:45:00,Medlife,Healthcare,3800.00,INR,Completed
+55,11,2026-07-13 18:15:00,Pharmeasy,Healthcare,1500.00,INR,Completed
+56,12,2026-07-21 10:00:00,BPCL,Fuel,3800.00,INR,Completed
+57,12,2026-07-19 15:30:00,HP Petrol,Fuel,4200.00,INR,Completed
+58,12,2026-07-17 12:00:00,Indian Oil,Fuel,3500.00,INR,Completed
+59,12,2026-07-14 17:45:00,Shell,Fuel,5000.00,INR,Completed
+60,12,2026-07-12 21:30:00,Hindustan Petroleum,Fuel,2800.00,INR,Completed
+61,13,2026-07-22 09:30:00,Fabindia,Apparel,8500.00,INR,Completed
+62,13,2026-07-20 14:15:00,W,Apparel,6200.00,INR,Completed
+63,13,2026-07-18 18:00:00,Global Desi,Apparel,4800.00,INR,Completed
+64,13,2026-07-15 11:45:00,Biba,Apparel,5500.00,INR,Completed
+65,13,2026-07-13 16:30:00,Aurelia,Apparel,3200.00,INR,Completed
+66,14,2026-07-21 11:45:00,Nykaa,Beauty,4500.00,INR,Completed
+67,14,2026-07-19 16:00:00,Sephora,Beauty,8200.00,INR,Completed
+68,14,2026-07-17 10:30:00,MAC,Beauty,5500.00,INR,Completed
+69,14,2026-07-14 14:15:00,Forest Essentials,Beauty,3800.00,INR,Completed
+70,14,2026-07-12 19:45:00,The Body Shop,Beauty,2500.00,INR,Completed
+71,15,2026-07-22 10:15:00,DMart,Groceries,5200.00,INR,Completed
+72,15,2026-07-20 15:45:00,Reliance Fresh,Groceries,3800.00,INR,Completed
+73,15,2026-07-18 11:00:00,Nature's Basket,Groceries,4500.00,INR,Completed
+74,15,2026-07-15 17:30:00,Star Bazaar,Groceries,2800.00,INR,Completed
+75,15,2026-07-13 13:00:00,Easy Day,Groceries,1500.00,INR,Completed
+76,16,2026-07-21 09:00:00,IKEA,Home Decor,42000.00,INR,Completed
+77,16,2026-07-19 14:30:00,@Home,Home Decor,28000.00,INR,Completed
+78,16,2026-07-17 18:15:00,Nilkamal,Furniture,35000.00,INR,Completed
+79,16,2026-07-14 12:00:00,Godrej Interio,Furniture,48000.00,INR,Completed
+80,16,2026-07-12 16:45:00,HomeTown,Home Decor,22000.00,INR,Completed
+81,17,2026-07-22 11:30:00,Cult.fit,Health & Fitness,5500.00,INR,Completed
+82,17,2026-07-20 16:00:00,Gold's Gym,Health & Fitness,8500.00,INR,Completed
+83,17,2026-07-18 10:15:00,Decathlon,Sports,6200.00,INR,Completed
+84,17,2026-07-15 14:30:00,Nike,Sports,9500.00,INR,Completed
+85,17,2026-07-13 18:45:00,Puma,Sports,7200.00,INR,Completed
+86,18,2026-07-21 10:45:00,IRCTC,Travel,3500.00,INR,Completed
+87,18,2026-07-19 15:00:00,Ola,Transportation,1200.00,INR,Completed
+88,18,2026-07-17 11:30:00,Uber,Transportation,950.00,INR,Completed
+89,18,2026-07-14 17:00:00,Rapido,Transportation,450.00,INR,Completed
+90,18,2026-07-12 20:30:00,RedBus,Travel,2200.00,INR,Completed
+91,19,2026-07-22 09:45:00,Amazon Prime,Subscription,1499.00,INR,Completed
+92,19,2026-07-20 14:00:00,Netflix,Entertainment,649.00,INR,Completed
+93,19,2026-07-18 18:30:00,Spotify,Entertainment,119.00,INR,Completed
+94,19,2026-07-15 12:15:00,Hotstar,Entertainment,299.00,INR,Completed
+95,19,2026-07-13 16:00:00,Sony LIV,Entertainment,999.00,INR,Completed
+96,20,2026-07-21 11:15:00,Zudio,Apparel,2500.00,INR,Completed
+97,20,2026-07-19 16:45:00,Max Fashion,Apparel,3800.00,INR,Completed
+98,20,2026-07-17 10:00:00,H&M,Apparel,5200.00,INR,Completed
+99,20,2026-07-14 15:30:00,Zara,Apparel,8500.00,INR,Completed
+100,20,2026-07-12 19:00:00,Uniqlo,Apparel,4800.00,INR,Completed

@@ -1,0 +1,101 @@
+approval_id,loan_id,approved_by,approval_date,approval_status,remarks
+1,1,3,2020-06-10,Approved,All documents verified. Good credit score.
+2,2,13,2022-03-05,Approved,Salary slip and ITR verified.
+3,3,19,2023-08-15,Approved,KYC complete. Eligible for personal loan.
+4,4,63,2018-10-30,Approved,Property documents clear. Approved for home loan.
+5,5,41,2021-04-12,Approved,Business plan reviewed. Approved for business loan.
+6,6,49,2019-06-25,Approved,Admission letter verified. Education loan approved.
+7,7,61,2015-02-20,Approved,Senior officer. All documents in order.
+8,8,69,2024-01-10,Approved,Income proof verified. Two wheeler loan approved.
+9,9,73,2022-09-08,Approved,Employment verification complete. Car loan approved.
+10,10,77,2024-03-20,Approved,Salary credits regular. Personal loan approved.
+11,11,81,2019-12-05,Approved,Property valuation done. Home loan approved.
+12,12,85,2020-08-01,Approved,LAP documents verified. Loan approved.
+13,13,89,2023-01-15,Approved,Agriculture land documents clear. Loan approved.
+14,14,93,2023-11-03,Approved,KYC complete. Personal loan approved.
+15,15,97,2022-06-25,Approved,Car quotation verified. Loan approved.
+16,16,5,2017-04-18,Approved,Senior management approval for high value loan.
+17,17,13,2022-02-10,Approved,Business registration verified. Loan approved.
+18,18,25,2020-05-12,Approved,Education documents verified. Approved.
+19,19,37,2024-08-28,Approved,Salary slip verified. Personal loan approved.
+20,20,45,2021-10-20,Approved,Property valuation complete. Approved.
+21,21,53,2023-03-05,Approved,Car dealer quotation verified. Approved.
+22,22,61,2016-08-10,Approved,High value home loan. All documents clear.
+23,23,63,2019-11-25,Approved,LAP documents verified. Approved.
+24,24,65,2023-07-08,Approved,Income documents verified. Approved.
+25,25,67,2021-01-02,Approved,Business financials reviewed. Approved.
+26,26,71,2020-04-15,Approved,Home loan documents complete. Approved.
+27,27,75,2022-08-25,Approved,Car quotation verified. Approved.
+28,28,79,2021-06-10,Approved,Agriculture loan documents clear. Approved.
+29,29,83,2024-11-05,Approved,Personal loan KYC complete. Approved.
+30,30,87,2022-01-18,Approved,Property documents verified. Approved.
+31,31,3,2014-05-25,Approved,Senior management approval. High value loan.
+32,32,13,2021-09-15,Approved,LAP documents clear. Approved.
+33,33,19,2023-04-01,Approved,Car quotation verified. Approved.
+34,34,25,2024-02-25,Approved,Personal loan KYC done. Approved.
+35,35,35,2020-07-05,Approved,Business loan financials verified. Approved.
+36,36,41,2018-03-20,Approved,Home loan high value. All clear.
+37,37,49,2022-12-10,Approved,Education loan documents verified. Approved.
+38,38,53,2021-05-05,Approved,Property valuation complete. Approved.
+39,39,61,2023-10-15,Approved,Car loan quotation verified. Approved.
+40,40,65,2024-06-01,Approved,Personal loan income verified. Approved.
+41,41,69,2022-11-08,Approved,Home loan property clear. Approved.
+42,42,73,2025-01-05,Approved,Two wheeler quotation verified. Approved.
+43,43,77,2021-08-25,Approved,Business financials reviewed. Approved.
+44,44,81,2019-02-15,Approved,High value home loan. Approved.
+45,45,85,2022-05-20,Approved,Car loan documents complete. Approved.
+46,46,89,2024-08-10,Approved,Personal loan KYC verified. Approved.
+47,47,93,2023-01-25,Approved,Home loan property documents clear. Approved.
+48,48,97,2021-04-05,Approved,LAP valuation complete. Approved.
+49,49,5,2022-07-15,Approved,Agriculture loan documents verified. Approved.
+50,50,13,2017-09-01,Approved,High value home loan. Senior approval.
+51,51,25,2025-02-05,Approved,Personal loan income verified. Approved.
+52,52,35,2025-03-10,Approved,Two wheeler quotation verified. Approved.
+53,53,45,2025-01-15,Approved,Personal loan KYC complete. Approved.
+54,54,53,2025-04-01,Approved,Consumer durable loan approved.
+55,55,61,2025-05-08,Approved,Personal loan income proof verified. Approved.
+56,56,65,2025-06-05,Approved,Two wheeler quotation clear. Approved.
+57,57,69,2025-02-25,Approved,Personal loan KYC done. Approved.
+58,58,73,2025-06-28,Approved,Consumer durable loan documents verified. Approved.
+59,59,77,2025-04-15,Approved,Personal loan salary slips verified. Approved.
+60,60,81,2025-05-20,Approved,Two wheeler quotation verified. Approved.
+61,61,85,2025-03-05,Approved,Mudra loan business plan reviewed. Approved.
+62,62,89,2024-09-18,Approved,MSME loan business financials verified. Approved.
+63,63,93,2025-01-10,Approved,Mudra loan KYC complete. Approved.
+64,64,97,2023-11-25,Approved,MSME loan business documents clear. Approved.
+65,65,5,2025-06-15,Approved,Mudra loan documents verified. Approved.
+66,66,13,2026-01-02,Approved,Consumer durable loan income verified. Approved.
+67,67,19,2012-04-10,Approved,High value home loan. All documents clear.
+68,68,25,2024-07-25,Approved,Personal loan salary verified. Approved.
+69,69,35,2023-10-08,Approved,Car loan quotation verified. Approved.
+70,70,45,2025-02-01,Approved,Personal loan KYC done. Approved.
+71,71,53,2026-03-15,Approved,Consumer durable loan approved.
+72,72,61,2024-05-18,Approved,Personal loan income verified. Approved.
+73,73,65,2025-08-05,Approved,Two wheeler quotation clear. Approved.
+74,74,69,2025-09-10,Approved,Personal loan documents verified. Approved.
+75,75,73,2026-03-28,Approved,Consumer durable loan KYC complete. Approved.
+76,76,77,2025-05-05,Approved,Gold loan ornaments verified. Approved.
+77,77,81,2025-10-15,Approved,Gold loan valuation complete. Approved.
+78,78,85,2025-03-25,Approved,Gold loan documents clear. Approved.
+79,79,89,2025-07-08,Approved,Gold loan valuation done. Approved.
+80,80,93,2025-04-20,Approved,Gold loan ornaments verified. Approved.
+81,81,97,2025-06-10,Approved,Personal loan income proof verified. Approved.
+82,82,5,2026-02-05,Approved,Consumer durable loan approved.
+83,83,13,2013-08-18,Approved,High value home loan. Senior approval given.
+84,84,19,2025-11-01,Approved,Two wheeler quotation verified. Approved.
+85,85,25,2026-01-15,Approved,Personal loan KYC complete. Approved.
+86,86,35,2024-02-25,Approved,Car loan quotation verified. Approved.
+87,87,45,2025-08-05,Approved,Personal loan income verified. Approved.
+88,88,53,2025-09-18,Approved,Personal loan documents clear. Approved.
+89,89,61,2025-10-10,Approved,Two wheeler quotation verified. Approved.
+90,90,65,2025-11-25,Approved,Personal loan salary verified. Approved.
+91,91,69,2026-05-05,Approved,Consumer durable loan approved.
+92,92,73,2011-10-01,Approved,High value home loan. All documents clear.
+93,93,77,2025-12-15,Approved,Personal loan KYC done. Approved.
+94,94,81,2024-06-25,Approved,Car loan quotation verified. Approved.
+95,95,85,2024-08-10,Approved,Personal loan income verified. Approved.
+96,96,89,2025-07-20,Approved,Two wheeler quotation clear. Approved.
+97,97,93,2026-05-28,Approved,Consumer durable loan approved.
+98,98,97,2024-04-15,Approved,Personal loan documents verified. Approved.
+99,99,5,2025-05-25,Approved,Two wheeler quotation verified. Approved.
+100,100,13,2026-02-10,Approved,Personal loan KYC complete. Approved.
